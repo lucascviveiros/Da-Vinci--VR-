@@ -1,4 +1,4 @@
-# Da Vinci VR
+# Da Vinci (VR)
 - 3D Leonardo Da Vinci Museum;
 - Da Vinci studies and art;  
 - Deployed with HTC Vive Rift
