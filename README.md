@@ -2,6 +2,7 @@
 - 3D Da Vinci Museum;
 - Leonardo Da Vinci studies and art;  
 - Deployed with HTC Vive Rift
+- 3D Models made in Blender
   
 - link: https://drive.google.com/open?id=1mdPnj0dxLa1blg9cHciaG5jhF01ujHlU
 
