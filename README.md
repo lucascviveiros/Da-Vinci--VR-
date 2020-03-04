@@ -1,7 +1,7 @@
 # Da Vinci (VR)
 - 3D Da Vinci Museum;
 - Leonardo Da Vinci studies and art;  
-- Deployed with HTC Vive Rift
+- Tested with HTC Vive and Oculus Quest
   
 ![scr1](https://user-images.githubusercontent.com/21102697/75884128-3042c980-5e1c-11ea-89a4-8ea121d2ea2f.png)
 ![scr2](https://user-images.githubusercontent.com/21102697/75884133-3173f680-5e1c-11ea-9cff-179625bf61d4.png)
@@ -14,4 +14,5 @@
 <img src="https://user-images.githubusercontent.com/21102697/69048647-e2818d00-09f5-11ea-8c69-f178d2c23362.jpeg" width="250" height="400">
 
 
-- link (Oculus Rift): https://drive.google.com/open?id=1mdPnj0dxLa1blg9cHciaG5jhF01ujHlU
+- link (HTC Vive): https://drive.google.com/open?id=1mdPnj0dxLa1blg9cHciaG5jhF01ujHlU
+- link (Oculus Quest): 
