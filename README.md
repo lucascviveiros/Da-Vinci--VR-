@@ -16,5 +16,3 @@
 <img src="https://user-images.githubusercontent.com/21102697/69048647-e2818d00-09f5-11ea-8c69-f178d2c23362.jpeg" width="250" height="400">
 
 
-(HTC Vive): https://drive.google.com/open?id=1mdPnj0dxLa1blg9cHciaG5jhF01ujHlU
-(Oculus Quest) 
