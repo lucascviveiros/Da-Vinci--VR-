@@ -12,7 +12,7 @@
 ![scr4](https://user-images.githubusercontent.com/21102697/75884137-320c8d00-5e1c-11ea-8f8d-626718fb6ab4.png)
 
 
-<img src="https://user-images.githubusercontent.com/21102697/69048634-dc8bac00-09f5-11ea-918b-0f9448e09997.jpeg" width="250" height="400">
+%<img src="https://user-images.githubusercontent.com/21102697/69048634-dc8bac00-09f5-11ea-918b-0f9448e09997.jpeg" width="250" height="400">
 
 <img src="https://user-images.githubusercontent.com/21102697/69048647-e2818d00-09f5-11ea-8c69-f178d2c23362.jpeg" width="250" height="400">
 
