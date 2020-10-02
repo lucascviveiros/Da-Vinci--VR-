@@ -1,10 +1,10 @@
 # Da Vinci (VR)
 - 3D Da Vinci Museum;
-- Leonardo Da Vinci studies and art;
+- Teletransport
+- Leonardo Da Vinci studies and art with descriptions;
 - Blender
-- Developed to HTC Vive and Oculus Quest
-- XR Interaction
-- Oculus Interaction
+- HTC Vive and Oculus Quest
+- XR Interaction / Oculus Interaction
   
 ![scr1](https://user-images.githubusercontent.com/21102697/75884128-3042c980-5e1c-11ea-89a4-8ea121d2ea2f.png)
 ![scr2](https://user-images.githubusercontent.com/21102697/75884133-3173f680-5e1c-11ea-9cff-179625bf61d4.png)
