@@ -1,4 +1,4 @@
-# Da Vinci (VR)
+# Da Vinci (VR) - ImagesOnly
 - 3D Da Vinci Museum;
 - Leonardo Da Vinci studies and art with descriptions;
 - 3D Scene made in Blender
